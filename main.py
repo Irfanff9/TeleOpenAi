@@ -1,7 +1,7 @@
 import telebot
 from telebot import types
 import openai
-openai.api_key = "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"
+openai.api_key = "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"
 api = '5758062153:AAGbCWmPpYGkV7OOMbrfh3evZXZfaVZvWvM'
 bot = telebot.TeleBot(api)
 
